@@ -1,3 +1,4 @@
 class pull{
-int i=143;
+int i=200;
+int j=100;
 }
